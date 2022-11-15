@@ -11,11 +11,10 @@
 7. Scan the QR code / run the app in a simulator / emulator
 
 ## Homework 1
-![Homework 1 - Picture 1](./images/homework1.jpeg)
-<img src="./images/homework1.jpeg" width="200" height="100">
+<img src="./images/homework1.jpeg" width="128" height="256">
 
 ## Workshop 2 -- components
-![Workshop 2 - Picture 2](./images/workshop2.jpeg)
+<img src="./images/workshop2.jpeg" width="200" height="100">
 
 ## Homework 2
-![Homework 2 - Picture 3](./images/homework2.jpeg)
+<img src="./images/homework2.jpeg" width="200" height="100">
