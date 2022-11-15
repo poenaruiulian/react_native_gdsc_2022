@@ -12,6 +12,7 @@
 
 ## Homework 1
 ![Homework 1 - Picture 1](./images/homework1.jpeg)
+<img src="./images/homework1.jpeg" width="200" height="100">
 
 ## Workshop 2 -- components
 ![Workshop 2 - Picture 2](./images/workshop2.jpeg)
