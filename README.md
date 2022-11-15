@@ -14,7 +14,7 @@
 <img src="./images/homework1.jpeg" width="288" height="512">
 
 ## Workshop 2 -- components
-<img src="./images/workshop2.jpeg" width="200" height="100">
+<img src="./images/workshop2.jpeg" width="288" height="512">
 
 ## Homework 2
-<img src="./images/homework2.jpeg" width="200" height="100">
+<img src="./images/homework2.jpeg" width="288" height="512">
