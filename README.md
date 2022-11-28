@@ -18,3 +18,36 @@
 
 ## Homework 2
 <img src="./images/homework2.jpeg" width="288" height="512">
+
+##Workshop 3 -- navigation
+
+### Navigation setup
+In `App.js`, under the `App` component, you should see three different navigations: Stack, Tab & Drawer. When you run the app, make sure to let just one uncommented.
+
+#### General setup
+1. `npm install @react-navigation/native`
+2. `expo install react-native-screens react-native-safe-area-context`
+
+#### Stack Navigation setup steps
+1. `npm install @react-navigation/native-stack`
+
+#### Tab Navigation setup steps
+1. `npm install @react-navigation/bottom-tabs`
+2. `npm install @expo/vector-icons` // note that this is optional, and it is only necessary if you would like those icons for the bottom tabs
+
+#### Drawer Navigation setup steps
+1. `npm install @react-navigation/drawer`
+2. `expo install react-native-gesture-handler react-native-reanimated`
+
+3. Add the following plugin in `babel.config.js`:
+```js
+  ...
+  return {
+    ...
+    plugins: [
+      'react-native-reanimated/plugin',
+    ],
+  }
+  ...
+```
+
