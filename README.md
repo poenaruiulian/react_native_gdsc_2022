@@ -21,9 +21,6 @@
 
 ##Workshop 3 -- navigation
 
-### Navigation setup
-In `App.js`, under the `App` component, you should see three different navigations: Stack, Tab & Drawer. When you run the app, make sure to let just one uncommented.
-
 #### General setup
 1. `npm install @react-navigation/native`
 2. `expo install react-native-screens react-native-safe-area-context`
