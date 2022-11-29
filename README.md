@@ -49,7 +49,7 @@
 ```
 
 ##Homework 3
-[](./images/navigation.gif)
+<img src="./images/navigation.gif" width="288" height="512">
 
 
 
