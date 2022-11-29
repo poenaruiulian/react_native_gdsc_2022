@@ -49,9 +49,7 @@
 ```
 
 ##Homework 3
-<video width="320" height="240" controls>
-  <source src="images/navigation.mp4" type="video/mp4">
-</video>
+(./images/navigation.gif)
 
 
 
