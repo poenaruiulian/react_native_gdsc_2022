@@ -49,6 +49,7 @@
 ```
 
 ##Homework 3
+
 <img src="./images/navigation.gif" width="288" height="512">
 
 
