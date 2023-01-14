@@ -19,7 +19,7 @@
 ## Homework 2
 <img src="./images/homework2.jpeg" width="288" height="512">
 
-##Workshop 3 -- navigation
+## Workshop 3 -- navigation
 
 #### General setup
 1. `npm install @react-navigation/native`
@@ -48,7 +48,7 @@
   ...
 ```
 
-##Homework 3
+## Homework 3
 
 <img src="./images/navigation.gif" width="288" height="512">
 
