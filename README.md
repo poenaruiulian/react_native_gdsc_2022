@@ -52,6 +52,15 @@
 
 <img src="./images/navigation.gif" width="288" height="512">
 
+## Workshop 4 -- expo components
+
+<div style="flex-direction:row">
+  <img src="./images/workshop4pt1.PNG" width="288" height="512">
+  <img src="./images/workshop4pt2.PNG" width="288" height="512">
+</div>
+
+# Workshop 5 -- API
+<img src="./images/workshop5.gif" width="288" height="512">
 
 
 
